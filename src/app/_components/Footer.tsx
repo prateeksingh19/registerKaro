@@ -17,11 +17,11 @@ export default function Footer() {
               className=""
             />
             <Image
-              src="/assets/google.png"
+              src="/assets/Google.png"
               height={24}
               width={24}
               alt=""
-              className=""
+              className="google"
             />
             <Image
               src="/assets/apple.png"
