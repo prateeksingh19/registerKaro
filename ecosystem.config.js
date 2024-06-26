@@ -11,7 +11,7 @@ module.exports = {
       user: "ubuntu",
       host: "13.127.222.194",
       ref: "origin/main",
-      repo: "git@github.com:prateeksingh19/registerKaro.git",
+      repo: "https://github.com/prateeksingh19/registerKaro.git",
       path: "/home/ubuntu",
       "pre-deploy-local": "",
       "post-deploy":
